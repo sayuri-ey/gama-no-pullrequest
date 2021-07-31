@@ -16,6 +16,4 @@
 
 ## Abra um PullRequest com suas alterações
 
-O que estou achando do curso ?
-
-Muito interessante!
+Muito feliz de ter sido aprovada no processo seletivo e me esforçando muito pra dar conta.
